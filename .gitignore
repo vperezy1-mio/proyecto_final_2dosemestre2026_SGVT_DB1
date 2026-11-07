@@ -1,0 +1,45 @@
+# Entorno virtual de Python
+
+.venv/
+venv/
+env/
+
+# Caché de Python
+
+**pycache**/
+*.py[cod]
+
+# Variables de entorno y credenciales
+
+.env
+.env.*
+
+# Configuración de editores
+
+.vscode/
+.idea/
+
+# Registros y archivos temporales
+
+*.log
+*.tmp
+*.bak
+
+# Pruebas
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+.venv/
+__pycache__/
+*.py[cod]
+.env
+logs/
+
+
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env

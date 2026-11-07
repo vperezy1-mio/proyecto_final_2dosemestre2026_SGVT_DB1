@@ -1,0 +1,6 @@
+
+# Conexión con SQL Server
+pyodbc==5.4.0
+
+# Interfaz gráfica
+PySide6==6.12.0
